@@ -45,3 +45,11 @@ password: admin <br/><br/>
 
 Link publish postman dapat dilihat [disini](https://documenter.getpostman.com/view/28365413/2sAXjM4BuC)
 
+## Docker
+
+### Menjalankan aplikasi di docker environment
+
+1. Buka windows terminal, arahkan ke root project
+2. ketik "docker build -t demo/laravel:01 ." (tanpa tanda petik) pada windows terminal
+3. ketik "docker run -p 8080:80 demo/laravel:01" (tanpa tanda petik) pada windows terminal
+4. Test run di browser menggunakan url <i>localhost:8080</i>
