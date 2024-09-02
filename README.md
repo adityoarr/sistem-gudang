@@ -2,12 +2,12 @@
 
 ## About Me
 
-Website: [Adityo Ar Rafiuddin](https://adityoarr.github.io/)
+Website: [Adityo Ar Rafiuddin](https://adityoarr.github.io/) <br/>
 Social Media: [adityoarr](https://linktr.ee/adityoarr)
 
 ## Intro
 
-Ini adalah projek berupa API yang dibuat untuk tes kerja di ID-GROW. Cara instal projek ini di lokal anda adalah sebagai berikut:
+Ini adalah projek berisi API yang dibuat menggunakan laravel + SQLite untuk tes kerja di ID-GROW. Cara instal projek ini di lokal anda adalah sebagai berikut:
 
 1. Clone/Download projek ini
 2. Buka cmd / terminal, arahkan ke root projek ini, lalu ketik <i>composer install</i>
@@ -39,6 +39,9 @@ Berikut adalah daftar API yang dibuat pada projek ini
 -   **GET api/history-mutasi-user/{idUser}** -> list all mutasi + detail history by user (idUser)
 -   **GET api/history-mutasi-barang/{kodeBarang}** -> list all mutasi + detail history by barang (kodeBarang)
 
-Semua API (kecuali login) harus diakses menggunakan token bearer yang dapat diperoleh melalui API Login. Akun tester yang dapat digunakan pada api login:
-email: admin@example.com
-password: admin@example.com
+Semua API (kecuali login) harus diakses menggunakan token bearer yang dapat diperoleh melalui API Login. Akun tester yang dapat digunakan pada api login: <br/>
+email: admin@example.com <br/>
+password: admin@example.com <br/><br/>
+
+Link publish postman dapat dilihat [disini](https://documenter.getpostman.com/view/28365413/2sAXjM4BuC)
+
