@@ -41,7 +41,7 @@ Berikut adalah daftar API yang dibuat pada projek ini
 
 Semua API (kecuali login) harus diakses menggunakan token bearer yang dapat diperoleh melalui API Login. Akun tester yang dapat digunakan pada api login: <br/>
 email: admin@example.com <br/>
-password: admin@example.com <br/><br/>
+password: admin <br/><br/>
 
 Link publish postman dapat dilihat [disini](https://documenter.getpostman.com/view/28365413/2sAXjM4BuC)
 
