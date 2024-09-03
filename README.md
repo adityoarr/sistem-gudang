@@ -13,6 +13,8 @@ Ini adalah projek berisi API yang dibuat menggunakan laravel + SQLite untuk tes 
 2. Buka cmd / terminal, arahkan ke root projek ini, lalu ketik <i>composer install</i>
 3. Bila sudah berhasil, ketik <i>php artisan serve</i> untuk menjalankan projek
 
+Database menggunakan SQLite. Lokasi db: <i>database/database.sqlite</i>
+
 ## API List
 
 Berikut adalah daftar API yang dibuat pada projek ini
